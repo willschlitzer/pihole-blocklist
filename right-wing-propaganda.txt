@@ -1,5 +1,7 @@
 foxnews.com
+(\.|^)foxnews\.com$
 fox.com
+(\.|^)fox\.com$
 theepochtimes.com
 catholicvote.org
 dailymail.co.uk
