@@ -1,0 +1,5 @@
+pelotoncycle.com
+onepeloton.com
+cdn.optimizely.com
+akamaihd.net
+s3.amazonaws.com
